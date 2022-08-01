@@ -1,0 +1,11 @@
+{
+    "app": {
+        "port": "5000"
+    },
+    "ipfs": {
+        "protocol": "http",
+        "host": "localhost",
+        "port": "8082",
+        "name": "ipfs"
+    }
+}
