@@ -6,3 +6,4 @@ The use of physical documents is also inconvenient and inefficient in today’s 
 To counter this forgery issue a platform using blockchain technology is suggested. 
 Blockchain provides immutability, once the document is uploaded to the blockchain it cannot be tampered with. 
 Doc-Chain is a Blockchain platform for universities to securely store student marksheets and certificates.
+Project done with @OptimalLearner and @Sahil222001
